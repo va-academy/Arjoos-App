@@ -25,3 +25,6 @@ def calculator():
 calculator()
 
 # This is for sample text addition
+# This is a sample text addition to demonstrate the functionality of the calculator.
+# This is for Diff
+# Sample Text
